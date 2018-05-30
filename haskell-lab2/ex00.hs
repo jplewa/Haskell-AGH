@@ -1,0 +1,3 @@
+list comprehensions
+rekursja liniowa
+

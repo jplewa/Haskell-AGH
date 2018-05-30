@@ -1,0 +1,1 @@
+newtype IntBox = MkIntBox Int deriving Show
